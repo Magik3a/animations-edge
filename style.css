@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* line 1, C:/Users/Светлин/Desktop/animations/style.scss */
+body {
+  padding-top: 50px; }
+
+/* line 6, C:/Users/Светлин/Desktop/animations/style.scss */
+.animation {
+  margin-top: 50px;
+  text-align: center;
+  box-shadow: 0px 5px 5px black; }
+  /* line 10, C:/Users/Светлин/Desktop/animations/style.scss */
+  .animation :hover {
+    box-shadow: 0px 5px 10px black; }
+
+/* line 15, C:/Users/Светлин/Desktop/animations/style.scss */
+footer {
+  margin-top: 50px;
+  height: 50px;
+  background-color: #222222; }
+  /* line 19, C:/Users/Светлин/Desktop/animations/style.scss */
+  footer p {
+    padding: 10px; }
+
+/*# sourceMappingURL=style.css.map */

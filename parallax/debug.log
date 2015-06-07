@@ -1,0 +1,136 @@
+[0605/231635:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0605/231635:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0605/231641:INFO:CONSOLE(24)] "Uncaught TypeError: Object #<Object> has no method 'callbackTunnelAsync'", source: http://download.macromedia.com/pub/edgetools/animate/3/currentversion.js?t=801 (24)
+[0605/231646:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0605/231646:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0605/231729:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0605/231729:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/125943:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/125943:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/125954:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/125954:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/125958:INFO:CONSOLE(24)] "Uncaught TypeError: Object #<Object> has no method 'callbackTunnelAsync'", source: http://download.macromedia.com/pub/edgetools/animate/3/currentversion.js?t=926 (24)
+[0606/130817:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/130817:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/131055:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/131055:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/131131:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/131132:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/152513:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152513:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152518:INFO:CONSOLE(24)] "Uncaught TypeError: Object #<Object> has no method 'callbackTunnelAsync'", source: http://download.macromedia.com/pub/edgetools/animate/3/currentversion.js?t=897 (24)
+[0606/152523:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152523:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152555:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152555:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152848:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/152848:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/165900:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at about:blank:0:111", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/165901:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at about:blank:0:105", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/165902:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at about:blank:0:104", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/193145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/193145:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/202354:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202354:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202354:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202755:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202755:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202755:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202835:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202835:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/202835:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/203029:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/203029:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/203029:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/211602:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0606/212851:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/212851:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at EdgeDOM.onScroll (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:82:62)
+    at x.event.dispatch (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:10006)
+    at y.handle (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/jquery-2.0.3.min.js:5:6789)", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/212851:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/212908:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/212908:INFO:CONSOLE(40)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js:36:231)
+    at d.Symbol.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:47:259)
+    at Object.EdgeDOM.seekInSymbolInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/edge.authoring.4.0.0.min.js:111:40)
+    at about:blank:0:15", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD/Desktop/animations/parallax/edge_includes/an.canvas.overlay.min.js (40)
+[0606/233236:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0606/233236:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
